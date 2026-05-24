@@ -44,8 +44,8 @@
 
 ---
 <div align="center">
-  
-<img width="180" src="https://64.media.tumblr.com/b2d174df6e5333288ce03ac75ff90c94/4d2a6d5d3f8f8d6e-bf/s540x810/f17bb86c353c48738c2dbcb8159bb9f0b59df678.gif">
+
+<img width="180" src="https://gifdb.com/images/high/kakegurui-yumeko-jabami-half-face-m5mjl4jpe6h0nd5s.gif">
 
 </div>
 
