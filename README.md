@@ -37,13 +37,17 @@
 
 ## 🐍 Animação da cobrinha
 
-<div align="center">
-
+<div>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
 ---
+<div align="center">
+  
+<img width="180" src="https://64.media.tumblr.com/b2d174df6e5333288ce03ac75ff90c94/4d2a6d5d3f8f8d6e-bf/s540x810/f17bb86c353c48738c2dbcb8159bb9f0b59df678.gif">
+
+</div>
 
 <div align="center">
 
